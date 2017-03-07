@@ -1,1 +1,3 @@
 A set of workflows developed for the digitization of three-dimensional paleontological collection objects stored in trays, drawers, and boxes. Development of these workflows began with iDigBio's DROID (Developing Robust Object to Image to Data) workshop in May of 2012. In March of 2015, the Paleo Workflows Working Group completed a two-year project that culminated in the workflows offered for download here. Workflow modules are presented in both PDF and DOCX format to facilitate customization for specific institutional implementation.
+
+These workflows are being distributed under a Creative Commons CC BY license.
